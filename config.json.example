@@ -1,0 +1,10 @@
+{
+	"osuApiKey": "",
+	"carbonPath": "carbon.osu",
+	"mode": "osu",
+	"carbonHost": "",
+	"carbonPort": 2003,
+	"users": [
+		
+	]
+}
